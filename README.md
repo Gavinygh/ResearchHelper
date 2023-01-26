@@ -11,15 +11,15 @@ Research helper is a paper/book management tool. It is a reference management to
 
 ## Built-in PDF reader
 
-![reader.gif](./gifs/reader.gif)
+![reader.gif](./reader.gif)
 
 ## Drag & Drop Layout
 
-![layout.gif](./gifs/layout.gif)
+![layout.gif](./layout.gif)
 
 ## Built-in Live Markdown editor
 
-![note.gif](./gifs/note.gif)
+![note.gif](./note.gif)
 
 # Contribute to Research-Helper
 
