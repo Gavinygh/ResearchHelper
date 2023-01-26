@@ -1,11 +1,11 @@
+# Welcome
+
+Hello, I am sorry that we haven't released the software into production, but here's a brief demonstration for the Research helper, which is a paper/book management tool. It is a reference management tool with various useful functionalities such as: built-in PDF reader and live markdown.
 <p align="center">
 <img src="./logo.svg" 
 style="width: 100px; vertical-align:middle">
 </p>
 
-# Research Helper
-
-Research helper is a paper/book management tool. It is a reference management tool with various useful functionalities such as: built-in PDF reader and live markdown.
 
 # Features
 
