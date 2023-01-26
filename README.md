@@ -25,20 +25,6 @@ style="width: 100px; vertical-align:middle">
 
 Research Helper uses [QUASAR](https://quasar.dev) as framework. In this project, the combination of [Vue.js3](https://vuejs.org) and [Electron](https://www.electronjs.org) is used.
 
-## Install the dependencies
-
-```bash
-yarn # strongly recommanded
-# or
-npm install
-```
-
-## Start the electron app in development mode (hot-code reloading, error reporting, etc.)
-
-```bash
-./dev.sh
-```
-
 # Acknowledgement
 
 This project is made possible by the following open source projects.
